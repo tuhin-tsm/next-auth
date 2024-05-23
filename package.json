@@ -11,6 +11,7 @@
     "type-check-watch": "tsc --pretty --noEmit --watch"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.37.1",
     "@types/http-proxy": "^1.17.11",
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
